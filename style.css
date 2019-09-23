@@ -1,5 +1,6 @@
 body{
-	background: url('images/ice.jpg') no-repeat center center fixed;
+	background:url('images/ice.jpg') no-repeat center center;
+	background-size: cover;
 	margin: 0;
 	padding: 0;
 	color: white;
@@ -8,7 +9,6 @@ body{
 #wrapper{
 	width: 90%;
 	height: auto;
-	background: darkred;
 	margin: 0 auto;
 	padding: 12px;
 
@@ -54,6 +54,26 @@ body{
 	height: 200px;
 	margin: 0 auto;
 	border-radius: 200px;
+}
+
+#two #featured-image{
+	background: url('images/ice-ice-baby.jpg') no-repeat center center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+
+#three #featured-image{
+	background: url('images/ice-ice-baby.jpg') no-repeat center center;
+	background-size: cover;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 200px;
+}
+	
 
 }
 h2{
