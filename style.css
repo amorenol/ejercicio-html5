@@ -48,7 +48,7 @@ body{
 }
 
 #one #featured-image{
-	background: url('images/ice-ice-baby.jpg') no-repeat center center;
+	background: url('images/ice.jpg') no-repeat center center;
 	background-size: cover;
 	width: 200px;
 	height: 200px;
@@ -57,7 +57,7 @@ body{
 }
 
 #two #featured-image{
-	background: url('images/ice-ice-baby.jpg') no-repeat center center;
+	background: url('images/ice-ice.jpg') no-repeat center center;
 	background-size: cover;
 	width: 200px;
 	height: 200px;
